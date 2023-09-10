@@ -3,7 +3,9 @@
 This project sets up an interactive 3D scene using Babylon.js, allowing you to interact with and manipulate 3D objects. It uses npm and Vite for development.
 
 ## Personal notes
-I had a ton of fun working on this and learnt so many new stuff, but unfortunately I couldn't complete it. The shader outline part is still not working. Thank you for your time and this opportunity. 
+I had a ton of fun working on this and learnt so many new stuff, but unfortunately I couldn't complete it. The shader outline part is still not working. I did write the shader code but could not debug and solve it within the time frame. Thank you for your time and this opportunity. This is what it is upto now :
+![Screenshot 1](https://github.com/thesaltysleuth/babylon/blob/main/screenshots/Screenshot%202023-09-10%20at%2011.31.51%20PM.png)
+![Screenshot 2](https://github.com/thesaltysleuth/babylon/blob/main/screenshots/Screenshot%202023-09-10%20at%2011.32.04%20PM.png)
 
 ## Prerequisites
 
